@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Wei Fang — WF monogram</title>
+  <rect width="512" height="512" rx="80" fill="#3f51b5"/>
+  <path fill="#fff" d="M64 128L112 128L136 300L158 180L194 180L216 300L240 128L288 128L248 384L196 384L176 284L156 384L104 384Z"/>
+  <path fill="#fff" d="M320 128L448 128L448 176L368 176L368 232L436 232L436 280L368 280L368 384L320 384Z"/>
+</svg>
