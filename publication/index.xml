@@ -5,7 +5,7 @@
     <link>https://wfangtw.github.io/publication/</link>
       <atom:link href="https://wfangtw.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Tue, 03 Nov 2026 00:00:00 -0500</lastBuildDate>
     <image>
       <url>https://wfangtw.github.io/img/icon-192.png</url>
       <title>Publications</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Adversarial Speculative Reasoning Improves Long Horizon Agents</title>
+      <link>https://wfangtw.github.io/publication/arxiv26-adversarial-reasoning/</link>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 -0500</pubDate>
+      <guid>https://wfangtw.github.io/publication/arxiv26-adversarial-reasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Beyond Single-Shot: Multi-step Tool Retrieval via Query Planning</title>
       <link>https://wfangtw.github.io/publication/arxiv26-toolqp/</link>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 -0500</pubDate>
       <guid>https://wfangtw.github.io/publication/arxiv26-toolqp/</guid>
       <description></description>
     </item>
@@ -23,7 +31,7 @@
     <item>
       <title>PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play</title>
       <link>https://wfangtw.github.io/publication/acl25-p2p/</link>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 -0400</pubDate>
       <guid>https://wfangtw.github.io/publication/acl25-p2p/</guid>
       <description></description>
     </item>
@@ -31,7 +39,7 @@
     <item>
       <title>Joint Inference of Retrieval and Generation for Passage Re-ranking</title>
       <link>https://wfangtw.github.io/publication/eacl24-jpr/</link>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 -0400</pubDate>
       <guid>https://wfangtw.github.io/publication/eacl24-jpr/</guid>
       <description></description>
     </item>
@@ -39,7 +47,7 @@
     <item>
       <title>Expand, Rerank, and Retrieve: Query Reranking for Open-Domain Question Answering</title>
       <link>https://wfangtw.github.io/publication/acl23-ear/</link>
-      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 -0400</pubDate>
       <guid>https://wfangtw.github.io/publication/acl23-ear/</guid>
       <description></description>
     </item>
@@ -47,7 +55,7 @@
     <item>
       <title>Interpretable Unified Language Checking</title>
       <link>https://wfangtw.github.io/publication/arxiv23-interpretable/</link>
-      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 -0400</pubDate>
       <guid>https://wfangtw.github.io/publication/arxiv23-interpretable/</guid>
       <description></description>
     </item>
@@ -65,9 +73,19 @@
       <link>https://wfangtw.github.io/publication/sm-thesis/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://wfangtw.github.io/publication/sm-thesis/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -76,15 +94,28 @@
       <link>https://wfangtw.github.io/publication/emnlp19w-stance/</link>
       <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://wfangtw.github.io/publication/emnlp19w-stance/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).--&gt;
 </description>
     </item>
     
     <item>
       <title>Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models</title>
       <link>https://wfangtw.github.io/publication/arxiv19-berttaco/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 -0400</pubDate>
       <guid>https://wfangtw.github.io/publication/arxiv19-berttaco/</guid>
       <description></description>
     </item>
@@ -92,7 +123,7 @@
     <item>
       <title>Machine Comprehension of Spoken Content: TOEFL Listening Test and Spoken SQuAD</title>
       <link>https://wfangtw.github.io/publication/taslp19-qa/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
       <guid>https://wfangtw.github.io/publication/taslp19-qa/</guid>
       <description></description>
     </item>
@@ -100,7 +131,7 @@
     <item>
       <title>FAKTA: An Automatic End-to-End Fact Checking System</title>
       <link>https://wfangtw.github.io/publication/naacl19-faktademo/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
       <guid>https://wfangtw.github.io/publication/naacl19-faktademo/</guid>
       <description></description>
     </item>
@@ -108,7 +139,7 @@
     <item>
       <title>Multi-Label Zero-Shot Learning with Structured Knowledge Graphs</title>
       <link>https://wfangtw.github.io/publication/cvpr18-mlzsl/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
       <guid>https://wfangtw.github.io/publication/cvpr18-mlzsl/</guid>
       <description></description>
     </item>
@@ -116,7 +147,7 @@
     <item>
       <title>Hierarchical Attention Model for Improved Machine Comprehension of Spoken Content</title>
       <link>https://wfangtw.github.io/publication/slt16-toeflqa/</link>
-      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 -0500</pubDate>
       <guid>https://wfangtw.github.io/publication/slt16-toeflqa/</guid>
       <description></description>
     </item>

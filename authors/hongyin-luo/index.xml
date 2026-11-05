@@ -5,7 +5,7 @@
     <link>https://wfangtw.github.io/authors/hongyin-luo/</link>
       <atom:link href="https://wfangtw.github.io/authors/hongyin-luo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hongyin Luo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Fri, 07 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Tue, 03 Nov 2026 00:00:00 -0500</lastBuildDate>
     <image>
       <url>https://wfangtw.github.io/img/icon-192.png</url>
       <title>Hongyin Luo</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Adversarial Speculative Reasoning Improves Long Horizon Agents</title>
+      <link>https://wfangtw.github.io/publication/arxiv26-adversarial-reasoning/</link>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 -0500</pubDate>
+      <guid>https://wfangtw.github.io/publication/arxiv26-adversarial-reasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Interpretable Unified Language Checking</title>
       <link>https://wfangtw.github.io/publication/arxiv23-interpretable/</link>
-      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 -0400</pubDate>
       <guid>https://wfangtw.github.io/publication/arxiv23-interpretable/</guid>
       <description></description>
     </item>

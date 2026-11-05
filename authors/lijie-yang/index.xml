@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lijie Yang | Wei Fang</title>
+    <link>https://wfangtw.github.io/authors/lijie-yang/</link>
+      <atom:link href="https://wfangtw.github.io/authors/lijie-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lijie Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Tue, 03 Nov 2026 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
+      <title>Lijie Yang</title>
+      <link>https://wfangtw.github.io/authors/lijie-yang/</link>
+    </image>
+    
+    <item>
+      <title>Adversarial Speculative Reasoning Improves Long Horizon Agents</title>
+      <link>https://wfangtw.github.io/publication/arxiv26-adversarial-reasoning/</link>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 -0500</pubDate>
+      <guid>https://wfangtw.github.io/publication/arxiv26-adversarial-reasoning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
