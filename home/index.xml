@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Wei Fang</title>
-    <link>https://people.csail.mit.edu/weifang/home/</link>
+    <link>https://wfangtw.github.io/home/</link>
     <description>Recent content in Homes on Wei Fang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Wei Fang</copyright>
     <lastBuildDate>Mon, 23 Jul 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://people.csail.mit.edu/weifang/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wfangtw.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://people.csail.mit.edu/weifang/home/about/</link>
+      <link>https://wfangtw.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/weifang/home/about/</guid>
+      <guid>https://wfangtw.github.io/home/about/</guid>
       <description>Biography I&amp;rsquo;m a 1st year Ph.D. student at MIT EECS, recently graduated from National Taiwan University (NTU) with a Bachelor&amp;rsquo;s degree in Electrical Engineering. I joined the Spoken Language Systems Group at MIT CSAIL in the fall of 2018, working with Dr. James Glass.
 I am currently working on various projects on speech and language, including automatic fact-checking and speech synthesis. I am generally interested in learning and analyzing language representations, and transfer learning for NLP.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://people.csail.mit.edu/weifang/home/publications_selected/</link>
+      <link>https://wfangtw.github.io/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://people.csail.mit.edu/weifang/home/publications_selected/</guid>
+      <guid>https://wfangtw.github.io/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://people.csail.mit.edu/weifang/home/publications/</link>
+      <link>https://wfangtw.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://people.csail.mit.edu/weifang/home/publications/</guid>
+      <guid>https://wfangtw.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Honors &amp; Awards</title>
-      <link>https://people.csail.mit.edu/weifang/home/honors/</link>
+      <link>https://wfangtw.github.io/home/honors/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/weifang/home/honors/</guid>
+      <guid>https://wfangtw.github.io/home/honors/</guid>
       <description>Dean&amp;rsquo;s List (3 times) National Taiwan University GPA in Top 5% in Department of Electrical Engineering.
 Conference Grant Foundation for the Advancement of Outstanding Scholarship For SLT 2016.
 Winner (Smart Life Track) 2016 HackNTU Hackathon Total of 160 teams.
@@ -55,37 +55,37 @@ Winner (Smart Life Track) 2016 HackNTU Hackathon Total of 160 teams.
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://people.csail.mit.edu/weifang/home/talks/</link>
+      <link>https://wfangtw.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/weifang/home/talks/</guid>
+      <guid>https://wfangtw.github.io/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>https://people.csail.mit.edu/weifang/home/posts/</link>
+      <link>https://wfangtw.github.io/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/weifang/home/posts/</guid>
+      <guid>https://wfangtw.github.io/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://people.csail.mit.edu/weifang/home/projects/</link>
+      <link>https://wfangtw.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/weifang/home/projects/</guid>
+      <guid>https://wfangtw.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://people.csail.mit.edu/weifang/home/teaching/</link>
+      <link>https://wfangtw.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/weifang/home/teaching/</guid>
+      <guid>https://wfangtw.github.io/home/teaching/</guid>
       <description>Teaching Assistant Machine Learning, Fall 2016/Spring 2017, NTU EE
 Teaching Assistant Special Topics in Data Analytics and Modeling, Fall 2016, NTU CSIE
 Teaching Assistant Signals and Systems, Spring 2016, NTU EE</description>
@@ -93,37 +93,37 @@ Teaching Assistant Signals and Systems, Spring 2016, NTU EE</description>
     
     <item>
       <title>Tags</title>
-      <link>https://people.csail.mit.edu/weifang/home/tags/</link>
+      <link>https://wfangtw.github.io/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://people.csail.mit.edu/weifang/home/tags/</guid>
+      <guid>https://wfangtw.github.io/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Activities</title>
-      <link>https://people.csail.mit.edu/weifang/home/activities/</link>
+      <link>https://wfangtw.github.io/home/activities/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/weifang/home/activities/</guid>
+      <guid>https://wfangtw.github.io/home/activities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://people.csail.mit.edu/weifang/home/contact/</link>
+      <link>https://wfangtw.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/weifang/home/contact/</guid>
+      <guid>https://wfangtw.github.io/home/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://people.csail.mit.edu/weifang/home/search/</link>
+      <link>https://wfangtw.github.io/home/search/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://people.csail.mit.edu/weifang/home/search/</guid>
+      <guid>https://wfangtw.github.io/home/search/</guid>
       <description></description>
     </item>
     

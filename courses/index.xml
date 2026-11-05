@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | Wei Fang</title>
-    <link>https://people.csail.mit.edu/weifang/courses/</link>
-      <atom:link href="https://people.csail.mit.edu/weifang/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wfangtw.github.io/courses/</link>
+      <atom:link href="https://wfangtw.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright>
     <image>
-      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
       <title>Courses</title>
-      <link>https://people.csail.mit.edu/weifang/courses/</link>
+      <link>https://wfangtw.github.io/courses/</link>
     </image>
     
   </channel>

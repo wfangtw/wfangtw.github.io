@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xixin Wu | Wei Fang</title>
-    <link>https://people.csail.mit.edu/weifang/authors/xixin-wu/</link>
-      <atom:link href="https://people.csail.mit.edu/weifang/authors/xixin-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wfangtw.github.io/authors/xixin-wu/</link>
+      <atom:link href="https://wfangtw.github.io/authors/xixin-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Xixin Wu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Fri, 07 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
       <title>Xixin Wu</title>
-      <link>https://people.csail.mit.edu/weifang/authors/xixin-wu/</link>
+      <link>https://wfangtw.github.io/authors/xixin-wu/</link>
     </image>
     
     <item>
       <title>Interpretable Unified Language Checking</title>
-      <link>https://people.csail.mit.edu/weifang/publication/arxiv23-interpretable/</link>
+      <link>https://wfangtw.github.io/publication/arxiv23-interpretable/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/arxiv23-interpretable/</guid>
+      <guid>https://wfangtw.github.io/publication/arxiv23-interpretable/</guid>
       <description></description>
     </item>
     

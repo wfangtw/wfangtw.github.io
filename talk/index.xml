@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Wei Fang</title>
-    <link>https://people.csail.mit.edu/weifang/talk/</link>
-      <atom:link href="https://people.csail.mit.edu/weifang/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wfangtw.github.io/talk/</link>
+      <atom:link href="https://wfangtw.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright>
     <image>
-      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://people.csail.mit.edu/weifang/talk/</link>
+      <link>https://wfangtw.github.io/talk/</link>
     </image>
     
   </channel>

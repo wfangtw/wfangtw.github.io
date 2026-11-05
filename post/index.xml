@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Wei Fang</title>
-    <link>https://people.csail.mit.edu/weifang/post/</link>
-      <atom:link href="https://people.csail.mit.edu/weifang/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wfangtw.github.io/post/</link>
+      <atom:link href="https://wfangtw.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright>
     <image>
-      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
       <title>Posts</title>
-      <link>https://people.csail.mit.edu/weifang/post/</link>
+      <link>https://wfangtw.github.io/post/</link>
     </image>
     
   </channel>

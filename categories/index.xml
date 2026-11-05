@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Wei Fang</title>
-    <link>https://people.csail.mit.edu/weifang/categories/</link>
-      <atom:link href="https://people.csail.mit.edu/weifang/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wfangtw.github.io/categories/</link>
+      <atom:link href="https://wfangtw.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright>
     <image>
-      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
       <title>Categories</title>
-      <link>https://people.csail.mit.edu/weifang/categories/</link>
+      <link>https://wfangtw.github.io/categories/</link>
     </image>
     
   </channel>

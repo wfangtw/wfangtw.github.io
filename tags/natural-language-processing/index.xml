@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>natural-language-processing | Wei Fang</title>
+    <link>https://wfangtw.github.io/tags/natural-language-processing/</link>
+      <atom:link href="https://wfangtw.github.io/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>natural-language-processing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
+      <title>natural-language-processing</title>
+      <link>https://wfangtw.github.io/tags/natural-language-processing/</link>
+    </image>
+    
+    <item>
+      <title>Automatic Fact Checking</title>
+      <link>https://wfangtw.github.io/project/sls19-factchecking/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wfangtw.github.io/project/sls19-factchecking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular Chatbot</title>
+      <link>https://wfangtw.github.io/project/icb17-chatbot/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://wfangtw.github.io/project/icb17-chatbot/</guid>
+      <description>&lt;p&gt;In this project, we built a modular dialogue system with deep learning techniques
+for the task of assisting people in department stores.&lt;/p&gt;
+&lt;p&gt;Here is our &lt;!-- raw HTML omitted --&gt;poster&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QA for TOEFL Listening Comprehension</title>
+      <link>https://wfangtw.github.io/project/spml16-toeflqa/</link>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://wfangtw.github.io/project/spml16-toeflqa/</guid>
+      <description>&lt;p&gt;Here is a &lt;!-- raw HTML omitted --&gt;short talk&lt;!-- raw HTML omitted --&gt; I gave on SPMLLab&amp;rsquo;s recent work on speech question
+answering in .&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

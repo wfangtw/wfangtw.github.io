@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer-vision | Wei Fang</title>
+    <link>https://wfangtw.github.io/tags/computer-vision/</link>
+      <atom:link href="https://wfangtw.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>computer-vision</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
+      <title>computer-vision</title>
+      <link>https://wfangtw.github.io/tags/computer-vision/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Label ZSL with Knowledge Graphs</title>
+      <link>https://wfangtw.github.io/project/vll18-mlzsl/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://wfangtw.github.io/project/vll18-mlzsl/</guid>
+      <description>&lt;p&gt;Inspired by the way humans utilize semantic knowledge between objects of interests, we propose a novel deep learning framework that incorporates knowledge graphs for describing the relationships between multiple labels to achieve multi-label zero-shot learning (ML-ZSL).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

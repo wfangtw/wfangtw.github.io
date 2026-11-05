@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jui-Yang Hsu | Wei Fang</title>
-    <link>https://people.csail.mit.edu/weifang/authors/jui-yang-hsu/</link>
-      <atom:link href="https://people.csail.mit.edu/weifang/authors/jui-yang-hsu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wfangtw.github.io/authors/jui-yang-hsu/</link>
+      <atom:link href="https://wfangtw.github.io/authors/jui-yang-hsu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jui-Yang Hsu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
       <title>Jui-Yang Hsu</title>
-      <link>https://people.csail.mit.edu/weifang/authors/jui-yang-hsu/</link>
+      <link>https://wfangtw.github.io/authors/jui-yang-hsu/</link>
     </image>
     
     <item>
       <title>Machine Comprehension of Spoken Content: TOEFL Listening Test and Spoken SQuAD</title>
-      <link>https://people.csail.mit.edu/weifang/publication/taslp19-qa/</link>
+      <link>https://wfangtw.github.io/publication/taslp19-qa/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/taslp19-qa/</guid>
+      <guid>https://wfangtw.github.io/publication/taslp19-qa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical Attention Model for Improved Machine Comprehension of Spoken Content</title>
-      <link>https://people.csail.mit.edu/weifang/publication/slt16-toeflqa/</link>
+      <link>https://wfangtw.github.io/publication/slt16-toeflqa/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/slt16-toeflqa/</guid>
+      <guid>https://wfangtw.github.io/publication/slt16-toeflqa/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>augmented-reality | Wei Fang</title>
+    <link>https://wfangtw.github.io/tags/augmented-reality/</link>
+      <atom:link href="https://wfangtw.github.io/tags/augmented-reality/index.xml" rel="self" type="application/rss+xml" />
+    <description>augmented-reality</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Tue, 21 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
+      <title>augmented-reality</title>
+      <link>https://wfangtw.github.io/tags/augmented-reality/</link>
+    </image>
+    
+    <item>
+      <title>Slither.AR (AR Game)</title>
+      <link>https://wfangtw.github.io/project/cg16-slitherio/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://wfangtw.github.io/project/cg16-slitherio/</guid>
+      <description>&lt;p&gt;Using common and well-known development tools, we transform &lt;a href=&#34;http://slither.io&#34;&gt;slither.io&lt;/a&gt;, a game
+based on &amp;ldquo;Snake&amp;rdquo;, into an interactive augmented-reality game.&lt;/p&gt;
+&lt;p&gt;The details about this project can be found in our &lt;!-- raw HTML omitted --&gt;project report&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

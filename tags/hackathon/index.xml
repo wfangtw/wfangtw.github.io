@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hackathon | Wei Fang</title>
+    <link>https://wfangtw.github.io/tags/hackathon/</link>
+      <atom:link href="https://wfangtw.github.io/tags/hackathon/index.xml" rel="self" type="application/rss+xml" />
+    <description>hackathon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Sun, 21 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
+      <title>hackathon</title>
+      <link>https://wfangtw.github.io/tags/hackathon/</link>
+    </image>
+    
+    <item>
+      <title>MasterView (VR System)</title>
+      <link>https://wfangtw.github.io/project/hackntu16-masterview/</link>
+      <pubDate>Sun, 21 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://wfangtw.github.io/project/hackntu16-masterview/</guid>
+      <description>&lt;p&gt;In the 2016 HackNTU Hackathon, our team developed MasterView, a virtual reality system that shows the expert&amp;rsquo;s moves in first-person perspective so the user can imitate and practice.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a &lt;!-- raw HTML omitted --&gt;demo video&lt;!-- raw HTML omitted --&gt; of our system, and here&amp;rsquo;s
+our &lt;!-- raw HTML omitted --&gt;presentation slides&lt;!-- raw HTML omitted --&gt; in Mandarin Chinese.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

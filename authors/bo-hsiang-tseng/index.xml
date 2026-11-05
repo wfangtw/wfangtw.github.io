@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bo-Hsiang Tseng | Wei Fang</title>
-    <link>https://people.csail.mit.edu/weifang/authors/bo-hsiang-tseng/</link>
-      <atom:link href="https://people.csail.mit.edu/weifang/authors/bo-hsiang-tseng/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wfangtw.github.io/authors/bo-hsiang-tseng/</link>
+      <atom:link href="https://wfangtw.github.io/authors/bo-hsiang-tseng/index.xml" rel="self" type="application/rss+xml" />
     <description>Bo-Hsiang Tseng</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
       <title>Bo-Hsiang Tseng</title>
-      <link>https://people.csail.mit.edu/weifang/authors/bo-hsiang-tseng/</link>
+      <link>https://wfangtw.github.io/authors/bo-hsiang-tseng/</link>
     </image>
     
     <item>
       <title>Machine Comprehension of Spoken Content: TOEFL Listening Test and Spoken SQuAD</title>
-      <link>https://people.csail.mit.edu/weifang/publication/taslp19-qa/</link>
+      <link>https://wfangtw.github.io/publication/taslp19-qa/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/taslp19-qa/</guid>
+      <guid>https://wfangtw.github.io/publication/taslp19-qa/</guid>
       <description></description>
     </item>
     

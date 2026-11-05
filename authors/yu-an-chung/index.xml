@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yu-An Chung | Wei Fang</title>
-    <link>https://people.csail.mit.edu/weifang/authors/yu-an-chung/</link>
-      <atom:link href="https://people.csail.mit.edu/weifang/authors/yu-an-chung/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wfangtw.github.io/authors/yu-an-chung/</link>
+      <atom:link href="https://wfangtw.github.io/authors/yu-an-chung/index.xml" rel="self" type="application/rss+xml" />
     <description>Yu-An Chung</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Mon, 17 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
       <title>Yu-An Chung</title>
-      <link>https://people.csail.mit.edu/weifang/authors/yu-an-chung/</link>
+      <link>https://wfangtw.github.io/authors/yu-an-chung/</link>
     </image>
     
     <item>
       <title>Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models</title>
-      <link>https://people.csail.mit.edu/weifang/publication/arxiv19-berttaco/</link>
+      <link>https://wfangtw.github.io/publication/arxiv19-berttaco/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/arxiv19-berttaco/</guid>
+      <guid>https://wfangtw.github.io/publication/arxiv19-berttaco/</guid>
       <description></description>
     </item>
     

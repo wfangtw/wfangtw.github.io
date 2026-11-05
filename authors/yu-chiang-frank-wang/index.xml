@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yu-Chiang Frank Wang | Wei Fang</title>
-    <link>https://people.csail.mit.edu/weifang/authors/yu-chiang-frank-wang/</link>
-      <atom:link href="https://people.csail.mit.edu/weifang/authors/yu-chiang-frank-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wfangtw.github.io/authors/yu-chiang-frank-wang/</link>
+      <atom:link href="https://wfangtw.github.io/authors/yu-chiang-frank-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yu-Chiang Frank Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Mon, 18 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
       <title>Yu-Chiang Frank Wang</title>
-      <link>https://people.csail.mit.edu/weifang/authors/yu-chiang-frank-wang/</link>
+      <link>https://wfangtw.github.io/authors/yu-chiang-frank-wang/</link>
     </image>
     
     <item>
       <title>Multi-Label Zero-Shot Learning with Structured Knowledge Graphs</title>
-      <link>https://people.csail.mit.edu/weifang/publication/cvpr18-mlzsl/</link>
+      <link>https://wfangtw.github.io/publication/cvpr18-mlzsl/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/cvpr18-mlzsl/</guid>
+      <guid>https://wfangtw.github.io/publication/cvpr18-mlzsl/</guid>
       <description></description>
     </item>
     

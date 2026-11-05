@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Wei Fang</title>
-    <link>https://people.csail.mit.edu/weifang/authors/</link>
-      <atom:link href="https://people.csail.mit.edu/weifang/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wfangtw.github.io/authors/</link>
+      <atom:link href="https://wfangtw.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://people.csail.mit.edu/weifang/authors/</link>
+      <link>https://wfangtw.github.io/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://people.csail.mit.edu/weifang/authors/admin/</link>
+      <link>https://wfangtw.github.io/authors/admin/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/admin/</guid>
+      <guid>https://wfangtw.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I recently defended my PhD at MIT! I will soon be joining &lt;a href=&#34;https://subconscious.dev&#34;&gt;Subconscious&lt;/a&gt; as an AI Scientist to build efficient, long-context LLM agents.&lt;/p&gt;
 &lt;p&gt;During my PhD, I worked with &lt;a href=&#34;http://people.csail.mit.edu/jrg/&#34;&gt;Dr. James Glass&lt;/a&gt;&#39; Spoken Language Systems group at CSAIL.
 My research focused on augmented and agentic LLMs, with an emphasis on improving LLM agents&#39; retrieval and tool-use capabilities. I also worked on knowledge-grounded AI, aiming to ground models in factual and structured knowledge.&lt;/p&gt;
@@ -31,225 +31,225 @@ My research focused on augmented and agentic LLMs, with an emphasis on improving
     
     <item>
       <title>James Glass</title>
-      <link>https://people.csail.mit.edu/weifang/authors/james-glass/</link>
+      <link>https://wfangtw.github.io/authors/james-glass/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/james-glass/</guid>
+      <guid>https://wfangtw.github.io/authors/james-glass/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kaizhi Qian</title>
-      <link>https://people.csail.mit.edu/weifang/authors/kaizhi-qian/</link>
+      <link>https://wfangtw.github.io/authors/kaizhi-qian/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/kaizhi-qian/</guid>
+      <guid>https://wfangtw.github.io/authors/kaizhi-qian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yada Zhu</title>
-      <link>https://people.csail.mit.edu/weifang/authors/yada-zhu/</link>
+      <link>https://wfangtw.github.io/authors/yada-zhu/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/yada-zhu/</guid>
+      <guid>https://wfangtw.github.io/authors/yada-zhu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yang Zhang</title>
-      <link>https://people.csail.mit.edu/weifang/authors/yang-zhang/</link>
+      <link>https://wfangtw.github.io/authors/yang-zhang/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/yang-zhang/</guid>
+      <guid>https://wfangtw.github.io/authors/yang-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yung-Sung Chuang</title>
-      <link>https://people.csail.mit.edu/weifang/authors/yung-sung-chuang/</link>
+      <link>https://wfangtw.github.io/authors/yung-sung-chuang/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/yung-sung-chuang/</guid>
+      <guid>https://wfangtw.github.io/authors/yung-sung-chuang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shang-Wen Li</title>
-      <link>https://people.csail.mit.edu/weifang/authors/shang-wen-li/</link>
+      <link>https://wfangtw.github.io/authors/shang-wen-li/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/shang-wen-li/</guid>
+      <guid>https://wfangtw.github.io/authors/shang-wen-li/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wen-tau Yih</title>
-      <link>https://people.csail.mit.edu/weifang/authors/wen-tau-yih/</link>
+      <link>https://wfangtw.github.io/authors/wen-tau-yih/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/wen-tau-yih/</guid>
+      <guid>https://wfangtw.github.io/authors/wen-tau-yih/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Danny Fox</title>
-      <link>https://people.csail.mit.edu/weifang/authors/danny-fox/</link>
+      <link>https://wfangtw.github.io/authors/danny-fox/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/danny-fox/</guid>
+      <guid>https://wfangtw.github.io/authors/danny-fox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Helen Meng</title>
-      <link>https://people.csail.mit.edu/weifang/authors/helen-meng/</link>
+      <link>https://wfangtw.github.io/authors/helen-meng/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/helen-meng/</guid>
+      <guid>https://wfangtw.github.io/authors/helen-meng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hongyin Luo</title>
-      <link>https://people.csail.mit.edu/weifang/authors/hongyin-luo/</link>
+      <link>https://wfangtw.github.io/authors/hongyin-luo/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/hongyin-luo/</guid>
+      <guid>https://wfangtw.github.io/authors/hongyin-luo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Luc Gaitskell</title>
-      <link>https://people.csail.mit.edu/weifang/authors/luc-gaitskell/</link>
+      <link>https://wfangtw.github.io/authors/luc-gaitskell/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/luc-gaitskell/</guid>
+      <guid>https://wfangtw.github.io/authors/luc-gaitskell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thomas Hartvigsen</title>
-      <link>https://people.csail.mit.edu/weifang/authors/thomas-hartvigsen/</link>
+      <link>https://wfangtw.github.io/authors/thomas-hartvigsen/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/thomas-hartvigsen/</guid>
+      <guid>https://wfangtw.github.io/authors/thomas-hartvigsen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tianhua Zhang</title>
-      <link>https://people.csail.mit.edu/weifang/authors/tianhua-zhang/</link>
+      <link>https://wfangtw.github.io/authors/tianhua-zhang/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/tianhua-zhang/</guid>
+      <guid>https://wfangtw.github.io/authors/tianhua-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xixin Wu</title>
-      <link>https://people.csail.mit.edu/weifang/authors/xixin-wu/</link>
+      <link>https://wfangtw.github.io/authors/xixin-wu/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/xixin-wu/</guid>
+      <guid>https://wfangtw.github.io/authors/xixin-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mitra Mohtarami</title>
-      <link>https://people.csail.mit.edu/weifang/authors/mitra-mohtarami/</link>
+      <link>https://wfangtw.github.io/authors/mitra-mohtarami/</link>
       <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/mitra-mohtarami/</guid>
+      <guid>https://wfangtw.github.io/authors/mitra-mohtarami/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Moin Nadeem</title>
-      <link>https://people.csail.mit.edu/weifang/authors/moin-nadeem/</link>
+      <link>https://wfangtw.github.io/authors/moin-nadeem/</link>
       <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/moin-nadeem/</guid>
+      <guid>https://wfangtw.github.io/authors/moin-nadeem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yu-An Chung</title>
-      <link>https://people.csail.mit.edu/weifang/authors/yu-an-chung/</link>
+      <link>https://wfangtw.github.io/authors/yu-an-chung/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/yu-an-chung/</guid>
+      <guid>https://wfangtw.github.io/authors/yu-an-chung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bo-Hsiang Tseng</title>
-      <link>https://people.csail.mit.edu/weifang/authors/bo-hsiang-tseng/</link>
+      <link>https://wfangtw.github.io/authors/bo-hsiang-tseng/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/bo-hsiang-tseng/</guid>
+      <guid>https://wfangtw.github.io/authors/bo-hsiang-tseng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chi-Liang Liu</title>
-      <link>https://people.csail.mit.edu/weifang/authors/chi-liang-liu/</link>
+      <link>https://wfangtw.github.io/authors/chi-liang-liu/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/chi-liang-liu/</guid>
+      <guid>https://wfangtw.github.io/authors/chi-liang-liu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chia-Hsuan Lee</title>
-      <link>https://people.csail.mit.edu/weifang/authors/chia-hsuan-lee/</link>
+      <link>https://wfangtw.github.io/authors/chia-hsuan-lee/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/chia-hsuan-lee/</guid>
+      <guid>https://wfangtw.github.io/authors/chia-hsuan-lee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hung-Yi Lee</title>
-      <link>https://people.csail.mit.edu/weifang/authors/hung-yi-lee/</link>
+      <link>https://wfangtw.github.io/authors/hung-yi-lee/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/hung-yi-lee/</guid>
+      <guid>https://wfangtw.github.io/authors/hung-yi-lee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jui-Yang Hsu</title>
-      <link>https://people.csail.mit.edu/weifang/authors/jui-yang-hsu/</link>
+      <link>https://wfangtw.github.io/authors/jui-yang-hsu/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/jui-yang-hsu/</guid>
+      <guid>https://wfangtw.github.io/authors/jui-yang-hsu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Szu-Lin Wu</title>
-      <link>https://people.csail.mit.edu/weifang/authors/szu-lin-wu/</link>
+      <link>https://wfangtw.github.io/authors/szu-lin-wu/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/szu-lin-wu/</guid>
+      <guid>https://wfangtw.github.io/authors/szu-lin-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brian Xu</title>
-      <link>https://people.csail.mit.edu/weifang/authors/brian-xu/</link>
+      <link>https://wfangtw.github.io/authors/brian-xu/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/brian-xu/</guid>
+      <guid>https://wfangtw.github.io/authors/brian-xu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chih-Kuan Yeh</title>
-      <link>https://people.csail.mit.edu/weifang/authors/chih-kuan-yeh/</link>
+      <link>https://wfangtw.github.io/authors/chih-kuan-yeh/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/chih-kuan-yeh/</guid>
+      <guid>https://wfangtw.github.io/authors/chih-kuan-yeh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chung-Wei Lee</title>
-      <link>https://people.csail.mit.edu/weifang/authors/chung-wei-lee/</link>
+      <link>https://wfangtw.github.io/authors/chung-wei-lee/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/chung-wei-lee/</guid>
+      <guid>https://wfangtw.github.io/authors/chung-wei-lee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yu-Chiang Frank Wang</title>
-      <link>https://people.csail.mit.edu/weifang/authors/yu-chiang-frank-wang/</link>
+      <link>https://wfangtw.github.io/authors/yu-chiang-frank-wang/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/yu-chiang-frank-wang/</guid>
+      <guid>https://wfangtw.github.io/authors/yu-chiang-frank-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lin-Shan Lee</title>
-      <link>https://people.csail.mit.edu/weifang/authors/lin-shan-lee/</link>
+      <link>https://wfangtw.github.io/authors/lin-shan-lee/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/authors/lin-shan-lee/</guid>
+      <guid>https://wfangtw.github.io/authors/lin-shan-lee/</guid>
       <description></description>
     </item>
     

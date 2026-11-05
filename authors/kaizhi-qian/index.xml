@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kaizhi Qian | Wei Fang</title>
-    <link>https://people.csail.mit.edu/weifang/authors/kaizhi-qian/</link>
-      <atom:link href="https://people.csail.mit.edu/weifang/authors/kaizhi-qian/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wfangtw.github.io/authors/kaizhi-qian/</link>
+      <atom:link href="https://wfangtw.github.io/authors/kaizhi-qian/index.xml" rel="self" type="application/rss+xml" />
     <description>Kaizhi Qian</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
       <title>Kaizhi Qian</title>
-      <link>https://people.csail.mit.edu/weifang/authors/kaizhi-qian/</link>
+      <link>https://wfangtw.github.io/authors/kaizhi-qian/</link>
     </image>
     
     <item>
       <title>PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play</title>
-      <link>https://people.csail.mit.edu/weifang/publication/acl25-p2p/</link>
+      <link>https://wfangtw.github.io/publication/acl25-p2p/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/acl25-p2p/</guid>
+      <guid>https://wfangtw.github.io/publication/acl25-p2p/</guid>
       <description></description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Activities on Wei Fang</title>
-    <link>https://people.csail.mit.edu/weifang/activities/</link>
+    <link>https://wfangtw.github.io/activities/</link>
     <description>Recent content in Activities on Wei Fang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Wei Fang</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://people.csail.mit.edu/weifang/activities/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wfangtw.github.io/activities/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>NTUEE Student Association</title>
-      <link>https://people.csail.mit.edu/weifang/activities/ntueesa/</link>
+      <link>https://wfangtw.github.io/activities/ntueesa/</link>
       <pubDate>Wed, 06 Dec 2017 16:01:07 +0800</pubDate>
       
-      <guid>https://people.csail.mit.edu/weifang/activities/ntueesa/</guid>
+      <guid>https://wfangtw.github.io/activities/ntueesa/</guid>
       <description></description>
     </item>
     

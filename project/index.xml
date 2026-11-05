@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Wei Fang</title>
-    <link>https://people.csail.mit.edu/weifang/project/</link>
-      <atom:link href="https://people.csail.mit.edu/weifang/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wfangtw.github.io/project/</link>
+      <atom:link href="https://wfangtw.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
       <title>Projects</title>
-      <link>https://people.csail.mit.edu/weifang/project/</link>
+      <link>https://wfangtw.github.io/project/</link>
     </image>
     
     <item>
       <title>Automatic Fact Checking</title>
-      <link>https://people.csail.mit.edu/weifang/project/sls19-factchecking/</link>
+      <link>https://wfangtw.github.io/project/sls19-factchecking/</link>
       <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/project/sls19-factchecking/</guid>
+      <guid>https://wfangtw.github.io/project/sls19-factchecking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Label ZSL with Knowledge Graphs</title>
-      <link>https://people.csail.mit.edu/weifang/project/vll18-mlzsl/</link>
+      <link>https://wfangtw.github.io/project/vll18-mlzsl/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/project/vll18-mlzsl/</guid>
+      <guid>https://wfangtw.github.io/project/vll18-mlzsl/</guid>
       <description>&lt;p&gt;Inspired by the way humans utilize semantic knowledge between objects of interests, we propose a novel deep learning framework that incorporates knowledge graphs for describing the relationships between multiple labels to achieve multi-label zero-shot learning (ML-ZSL).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Modular Chatbot</title>
-      <link>https://people.csail.mit.edu/weifang/project/icb17-chatbot/</link>
+      <link>https://wfangtw.github.io/project/icb17-chatbot/</link>
       <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/project/icb17-chatbot/</guid>
+      <guid>https://wfangtw.github.io/project/icb17-chatbot/</guid>
       <description>&lt;p&gt;In this project, we built a modular dialogue system with deep learning techniques
 for the task of assisting people in department stores.&lt;/p&gt;
 &lt;p&gt;Here is our &lt;!-- raw HTML omitted --&gt;poster&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
@@ -42,9 +42,9 @@ for the task of assisting people in department stores.&lt;/p&gt;
     
     <item>
       <title>QA for TOEFL Listening Comprehension</title>
-      <link>https://people.csail.mit.edu/weifang/project/spml16-toeflqa/</link>
+      <link>https://wfangtw.github.io/project/spml16-toeflqa/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/project/spml16-toeflqa/</guid>
+      <guid>https://wfangtw.github.io/project/spml16-toeflqa/</guid>
       <description>&lt;p&gt;Here is a &lt;!-- raw HTML omitted --&gt;short talk&lt;!-- raw HTML omitted --&gt; I gave on SPMLLab&amp;rsquo;s recent work on speech question
 answering in .&lt;/p&gt;
 </description>
@@ -52,9 +52,9 @@ answering in .&lt;/p&gt;
     
     <item>
       <title>MasterView (VR System)</title>
-      <link>https://people.csail.mit.edu/weifang/project/hackntu16-masterview/</link>
+      <link>https://wfangtw.github.io/project/hackntu16-masterview/</link>
       <pubDate>Sun, 21 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/project/hackntu16-masterview/</guid>
+      <guid>https://wfangtw.github.io/project/hackntu16-masterview/</guid>
       <description>&lt;p&gt;In the 2016 HackNTU Hackathon, our team developed MasterView, a virtual reality system that shows the expert&amp;rsquo;s moves in first-person perspective so the user can imitate and practice.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s a &lt;!-- raw HTML omitted --&gt;demo video&lt;!-- raw HTML omitted --&gt; of our system, and here&amp;rsquo;s
 our &lt;!-- raw HTML omitted --&gt;presentation slides&lt;!-- raw HTML omitted --&gt; in Mandarin Chinese.&lt;/p&gt;
@@ -63,9 +63,9 @@ our &lt;!-- raw HTML omitted --&gt;presentation slides&lt;!-- raw HTML omitted -
     
     <item>
       <title>Slither.AR (AR Game)</title>
-      <link>https://people.csail.mit.edu/weifang/project/cg16-slitherio/</link>
+      <link>https://wfangtw.github.io/project/cg16-slitherio/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/project/cg16-slitherio/</guid>
+      <guid>https://wfangtw.github.io/project/cg16-slitherio/</guid>
       <description>&lt;p&gt;Using common and well-known development tools, we transform &lt;a href=&#34;http://slither.io&#34;&gt;slither.io&lt;/a&gt;, a game
 based on &amp;ldquo;Snake&amp;rdquo;, into an interactive augmented-reality game.&lt;/p&gt;
 &lt;p&gt;The details about this project can be found in our &lt;!-- raw HTML omitted --&gt;project report&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
@@ -74,9 +74,9 @@ based on &amp;ldquo;Snake&amp;rdquo;, into an interactive augmented-reality game
     
     <item>
       <title>Large Scale Equivalence Checking and Functional Correction</title>
-      <link>https://people.csail.mit.edu/weifang/project/cad15-eqcheck/</link>
+      <link>https://wfangtw.github.io/project/cad15-eqcheck/</link>
       <pubDate>Sat, 19 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/project/cad15-eqcheck/</guid>
+      <guid>https://wfangtw.github.io/project/cad15-eqcheck/</guid>
       <description>&lt;p&gt;We participated in the &lt;a href=&#34;http://cad-contest.el.cycu.edu.tw/CAD-contest-at-ICCAD2015/&#34;&gt;2015 CAD
 Contest&lt;/a&gt; hosted by
 IEEE/ACM International Conference on Computer Aided Design (ICCAD 2015). In

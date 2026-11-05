@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7 | Wei Fang</title>
-    <link>https://people.csail.mit.edu/weifang/publication_types/7/</link>
-      <atom:link href="https://people.csail.mit.edu/weifang/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wfangtw.github.io/publication_types/7/</link>
+      <atom:link href="https://wfangtw.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
       <title>7</title>
-      <link>https://people.csail.mit.edu/weifang/publication_types/7/</link>
+      <link>https://wfangtw.github.io/publication_types/7/</link>
     </image>
     
     <item>
       <title>On End-to-end Automatic Fact-checking Systems</title>
-      <link>https://people.csail.mit.edu/weifang/publication/sm-thesis/</link>
+      <link>https://wfangtw.github.io/publication/sm-thesis/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/sm-thesis/</guid>
+      <guid>https://wfangtw.github.io/publication/sm-thesis/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;

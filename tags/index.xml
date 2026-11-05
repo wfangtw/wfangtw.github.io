@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Wei Fang</title>
+    <link>https://wfangtw.github.io/tags/</link>
+      <atom:link href="https://wfangtw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://wfangtw.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>https://wfangtw.github.io/tags/source-themes/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://wfangtw.github.io/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>https://wfangtw.github.io/tags/deep-learning/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wfangtw.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>natural-language-processing</title>
+      <link>https://wfangtw.github.io/tags/natural-language-processing/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wfangtw.github.io/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer-vision</title>
+      <link>https://wfangtw.github.io/tags/computer-vision/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://wfangtw.github.io/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speech-processing</title>
+      <link>https://wfangtw.github.io/tags/speech-processing/</link>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://wfangtw.github.io/tags/speech-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hackathon</title>
+      <link>https://wfangtw.github.io/tags/hackathon/</link>
+      <pubDate>Sun, 21 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://wfangtw.github.io/tags/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virtual-reality</title>
+      <link>https://wfangtw.github.io/tags/virtual-reality/</link>
+      <pubDate>Sun, 21 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://wfangtw.github.io/tags/virtual-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>augmented-reality</title>
+      <link>https://wfangtw.github.io/tags/augmented-reality/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://wfangtw.github.io/tags/augmented-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game</title>
+      <link>https://wfangtw.github.io/tags/game/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://wfangtw.github.io/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unity-3d</title>
+      <link>https://wfangtw.github.io/tags/unity-3d/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://wfangtw.github.io/tags/unity-3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer-aided-design</title>
+      <link>https://wfangtw.github.io/tags/computer-aided-design/</link>
+      <pubDate>Sat, 19 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://wfangtw.github.io/tags/computer-aided-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contest</title>
+      <link>https://wfangtw.github.io/tags/contest/</link>
+      <pubDate>Sat, 19 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://wfangtw.github.io/tags/contest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>electronic-design-automation</title>
+      <link>https://wfangtw.github.io/tags/electronic-design-automation/</link>
+      <pubDate>Sat, 19 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://wfangtw.github.io/tags/electronic-design-automation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

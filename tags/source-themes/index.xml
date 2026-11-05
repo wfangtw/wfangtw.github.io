@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source Themes | Wei Fang</title>
+    <link>https://wfangtw.github.io/tags/source-themes/</link>
+      <atom:link href="https://wfangtw.github.io/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Source Themes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
+      <title>Source Themes</title>
+      <link>https://wfangtw.github.io/tags/source-themes/</link>
+    </image>
+    
+    <item>
+      <title>Cross-Document Temporal Relation Extraction with Temporal Anchoring Events</title>
+      <link>https://wfangtw.github.io/publication/preprint21-temprel/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://wfangtw.github.io/publication/preprint21-temprel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

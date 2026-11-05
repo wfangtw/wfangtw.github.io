@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chung-Wei Lee | Wei Fang</title>
-    <link>https://people.csail.mit.edu/weifang/authors/chung-wei-lee/</link>
-      <atom:link href="https://people.csail.mit.edu/weifang/authors/chung-wei-lee/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wfangtw.github.io/authors/chung-wei-lee/</link>
+      <atom:link href="https://wfangtw.github.io/authors/chung-wei-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>Chung-Wei Lee</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Mon, 18 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
       <title>Chung-Wei Lee</title>
-      <link>https://people.csail.mit.edu/weifang/authors/chung-wei-lee/</link>
+      <link>https://wfangtw.github.io/authors/chung-wei-lee/</link>
     </image>
     
     <item>
       <title>Multi-Label Zero-Shot Learning with Structured Knowledge Graphs</title>
-      <link>https://people.csail.mit.edu/weifang/publication/cvpr18-mlzsl/</link>
+      <link>https://wfangtw.github.io/publication/cvpr18-mlzsl/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/cvpr18-mlzsl/</guid>
+      <guid>https://wfangtw.github.io/publication/cvpr18-mlzsl/</guid>
       <description></description>
     </item>
     

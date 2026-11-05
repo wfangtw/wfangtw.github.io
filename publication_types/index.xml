@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Wei Fang</title>
-    <link>https://people.csail.mit.edu/weifang/publication_types/</link>
-      <atom:link href="https://people.csail.mit.edu/weifang/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wfangtw.github.io/publication_types/</link>
+      <atom:link href="https://wfangtw.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
       <title>Publication_types</title>
-      <link>https://people.csail.mit.edu/weifang/publication_types/</link>
+      <link>https://wfangtw.github.io/publication_types/</link>
     </image>
     
     <item>
       <title>4</title>
-      <link>https://people.csail.mit.edu/weifang/publication_types/4/</link>
+      <link>https://wfangtw.github.io/publication_types/4/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication_types/4/</guid>
+      <guid>https://wfangtw.github.io/publication_types/4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1</title>
-      <link>https://people.csail.mit.edu/weifang/publication_types/1/</link>
+      <link>https://wfangtw.github.io/publication_types/1/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication_types/1/</guid>
+      <guid>https://wfangtw.github.io/publication_types/1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>7</title>
-      <link>https://people.csail.mit.edu/weifang/publication_types/7/</link>
+      <link>https://wfangtw.github.io/publication_types/7/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication_types/7/</guid>
+      <guid>https://wfangtw.github.io/publication_types/7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>9</title>
-      <link>https://people.csail.mit.edu/weifang/publication_types/9/</link>
+      <link>https://wfangtw.github.io/publication_types/9/</link>
       <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication_types/9/</guid>
+      <guid>https://wfangtw.github.io/publication_types/9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2</title>
-      <link>https://people.csail.mit.edu/weifang/publication_types/2/</link>
+      <link>https://wfangtw.github.io/publication_types/2/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication_types/2/</guid>
+      <guid>https://wfangtw.github.io/publication_types/2/</guid>
       <description></description>
     </item>
     

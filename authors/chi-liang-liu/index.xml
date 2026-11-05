@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chi-Liang Liu | Wei Fang</title>
-    <link>https://people.csail.mit.edu/weifang/authors/chi-liang-liu/</link>
-      <atom:link href="https://people.csail.mit.edu/weifang/authors/chi-liang-liu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wfangtw.github.io/authors/chi-liang-liu/</link>
+      <atom:link href="https://wfangtw.github.io/authors/chi-liang-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Chi-Liang Liu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
       <title>Chi-Liang Liu</title>
-      <link>https://people.csail.mit.edu/weifang/authors/chi-liang-liu/</link>
+      <link>https://wfangtw.github.io/authors/chi-liang-liu/</link>
     </image>
     
     <item>
       <title>Machine Comprehension of Spoken Content: TOEFL Listening Test and Spoken SQuAD</title>
-      <link>https://people.csail.mit.edu/weifang/publication/taslp19-qa/</link>
+      <link>https://wfangtw.github.io/publication/taslp19-qa/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/taslp19-qa/</guid>
+      <guid>https://wfangtw.github.io/publication/taslp19-qa/</guid>
       <description></description>
     </item>
     

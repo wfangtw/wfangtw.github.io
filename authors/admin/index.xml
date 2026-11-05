@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wei Fang</title>
-    <link>https://people.csail.mit.edu/weifang/authors/admin/</link>
-      <atom:link href="https://people.csail.mit.edu/weifang/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wfangtw.github.io/authors/admin/</link>
+      <atom:link href="https://wfangtw.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Wei Fang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
       <title>Wei Fang</title>
-      <link>https://people.csail.mit.edu/weifang/authors/admin/</link>
+      <link>https://wfangtw.github.io/authors/admin/</link>
     </image>
     
     <item>
       <title>Beyond Single-Shot: Multi-step Tool Retrieval via Query Planning</title>
-      <link>https://people.csail.mit.edu/weifang/publication/arxiv26-toolqp/</link>
+      <link>https://wfangtw.github.io/publication/arxiv26-toolqp/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/arxiv26-toolqp/</guid>
+      <guid>https://wfangtw.github.io/publication/arxiv26-toolqp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play</title>
-      <link>https://people.csail.mit.edu/weifang/publication/acl25-p2p/</link>
+      <link>https://wfangtw.github.io/publication/acl25-p2p/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/acl25-p2p/</guid>
+      <guid>https://wfangtw.github.io/publication/acl25-p2p/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joint Inference of Retrieval and Generation for Passage Re-ranking</title>
-      <link>https://people.csail.mit.edu/weifang/publication/eacl24-jpr/</link>
+      <link>https://wfangtw.github.io/publication/eacl24-jpr/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/eacl24-jpr/</guid>
+      <guid>https://wfangtw.github.io/publication/eacl24-jpr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expand, Rerank, and Retrieve: Query Reranking for Open-Domain Question Answering</title>
-      <link>https://people.csail.mit.edu/weifang/publication/acl23-ear/</link>
+      <link>https://wfangtw.github.io/publication/acl23-ear/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/acl23-ear/</guid>
+      <guid>https://wfangtw.github.io/publication/acl23-ear/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interpretable Unified Language Checking</title>
-      <link>https://people.csail.mit.edu/weifang/publication/arxiv23-interpretable/</link>
+      <link>https://wfangtw.github.io/publication/arxiv23-interpretable/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/arxiv23-interpretable/</guid>
+      <guid>https://wfangtw.github.io/publication/arxiv23-interpretable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-Document Temporal Relation Extraction with Temporal Anchoring Events</title>
-      <link>https://people.csail.mit.edu/weifang/publication/preprint21-temprel/</link>
+      <link>https://wfangtw.github.io/publication/preprint21-temprel/</link>
       <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/preprint21-temprel/</guid>
+      <guid>https://wfangtw.github.io/publication/preprint21-temprel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On End-to-end Automatic Fact-checking Systems</title>
-      <link>https://people.csail.mit.edu/weifang/publication/sm-thesis/</link>
+      <link>https://wfangtw.github.io/publication/sm-thesis/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/sm-thesis/</guid>
+      <guid>https://wfangtw.github.io/publication/sm-thesis/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
@@ -73,9 +73,9 @@
     
     <item>
       <title>Neural Multi-Task Learning for Stance Prediction</title>
-      <link>https://people.csail.mit.edu/weifang/publication/emnlp19w-stance/</link>
+      <link>https://wfangtw.github.io/publication/emnlp19w-stance/</link>
       <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/emnlp19w-stance/</guid>
+      <guid>https://wfangtw.github.io/publication/emnlp19w-stance/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
@@ -83,41 +83,41 @@
     
     <item>
       <title>Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models</title>
-      <link>https://people.csail.mit.edu/weifang/publication/arxiv19-berttaco/</link>
+      <link>https://wfangtw.github.io/publication/arxiv19-berttaco/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/arxiv19-berttaco/</guid>
+      <guid>https://wfangtw.github.io/publication/arxiv19-berttaco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Comprehension of Spoken Content: TOEFL Listening Test and Spoken SQuAD</title>
-      <link>https://people.csail.mit.edu/weifang/publication/taslp19-qa/</link>
+      <link>https://wfangtw.github.io/publication/taslp19-qa/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/taslp19-qa/</guid>
+      <guid>https://wfangtw.github.io/publication/taslp19-qa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FAKTA: An Automatic End-to-End Fact Checking System</title>
-      <link>https://people.csail.mit.edu/weifang/publication/naacl19-faktademo/</link>
+      <link>https://wfangtw.github.io/publication/naacl19-faktademo/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/naacl19-faktademo/</guid>
+      <guid>https://wfangtw.github.io/publication/naacl19-faktademo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Label Zero-Shot Learning with Structured Knowledge Graphs</title>
-      <link>https://people.csail.mit.edu/weifang/publication/cvpr18-mlzsl/</link>
+      <link>https://wfangtw.github.io/publication/cvpr18-mlzsl/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/cvpr18-mlzsl/</guid>
+      <guid>https://wfangtw.github.io/publication/cvpr18-mlzsl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical Attention Model for Improved Machine Comprehension of Spoken Content</title>
-      <link>https://people.csail.mit.edu/weifang/publication/slt16-toeflqa/</link>
+      <link>https://wfangtw.github.io/publication/slt16-toeflqa/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/slt16-toeflqa/</guid>
+      <guid>https://wfangtw.github.io/publication/slt16-toeflqa/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer-aided-design | Wei Fang</title>
+    <link>https://wfangtw.github.io/tags/computer-aided-design/</link>
+      <atom:link href="https://wfangtw.github.io/tags/computer-aided-design/index.xml" rel="self" type="application/rss+xml" />
+    <description>computer-aided-design</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Sat, 19 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
+      <title>computer-aided-design</title>
+      <link>https://wfangtw.github.io/tags/computer-aided-design/</link>
+    </image>
+    
+    <item>
+      <title>Large Scale Equivalence Checking and Functional Correction</title>
+      <link>https://wfangtw.github.io/project/cad15-eqcheck/</link>
+      <pubDate>Sat, 19 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://wfangtw.github.io/project/cad15-eqcheck/</guid>
+      <description>&lt;p&gt;We participated in the &lt;a href=&#34;http://cad-contest.el.cycu.edu.tw/CAD-contest-at-ICCAD2015/&#34;&gt;2015 CAD
+Contest&lt;/a&gt; hosted by
+IEEE/ACM International Conference on Computer Aided Design (ICCAD 2015). In
+&lt;a href=&#34;http://cad-contest.el.cycu.edu.tw/problem_B/default.htm&#34;&gt;Problem B&lt;/a&gt;, we
+developed a system to identify equivalent cuts in both equivalent and
+nonequivalent circuits for design partitioning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

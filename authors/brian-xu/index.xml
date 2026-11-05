@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brian Xu | Wei Fang</title>
-    <link>https://people.csail.mit.edu/weifang/authors/brian-xu/</link>
-      <atom:link href="https://people.csail.mit.edu/weifang/authors/brian-xu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wfangtw.github.io/authors/brian-xu/</link>
+      <atom:link href="https://wfangtw.github.io/authors/brian-xu/index.xml" rel="self" type="application/rss+xml" />
     <description>Brian Xu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://people.csail.mit.edu/weifang/img/icon-192.png</url>
+      <url>https://wfangtw.github.io/img/icon-192.png</url>
       <title>Brian Xu</title>
-      <link>https://people.csail.mit.edu/weifang/authors/brian-xu/</link>
+      <link>https://wfangtw.github.io/authors/brian-xu/</link>
     </image>
     
     <item>
       <title>FAKTA: An Automatic End-to-End Fact Checking System</title>
-      <link>https://people.csail.mit.edu/weifang/publication/naacl19-faktademo/</link>
+      <link>https://wfangtw.github.io/publication/naacl19-faktademo/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/weifang/publication/naacl19-faktademo/</guid>
+      <guid>https://wfangtw.github.io/publication/naacl19-faktademo/</guid>
       <description></description>
     </item>
     
