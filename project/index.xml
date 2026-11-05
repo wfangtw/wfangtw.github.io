@@ -36,16 +36,17 @@
       <guid>https://wfangtw.github.io/project/icb17-chatbot/</guid>
       <description>&lt;p&gt;In this project, we built a modular dialogue system with deep learning techniques
 for the task of assisting people in department stores.&lt;/p&gt;
-&lt;p&gt;Here is our &lt;!-- raw HTML omitted --&gt;poster&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here is our &lt;a href=&#34;https://wfangtw.github.io/files/posters/icb-poster.pdf&#34; target=&#34;_blank&#34;&gt;poster&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>QA for TOEFL Listening Comprehension</title>
       <link>https://wfangtw.github.io/project/spml16-toeflqa/</link>
-      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 -0500</pubDate>
       <guid>https://wfangtw.github.io/project/spml16-toeflqa/</guid>
-      <description>&lt;p&gt;Here is a &lt;!-- raw HTML omitted --&gt;short talk&lt;!-- raw HTML omitted --&gt; I gave on SPMLLab&amp;rsquo;s recent work on speech question
+      <description>&lt;p&gt;Here is a &lt;a href=&#34;https://wfangtw.github.io/files/slides/speech-qa.pdf&#34; target=&#34;_blank&#34;&gt;short talk&lt;/a&gt; I gave on SPMLLab&amp;rsquo;s recent work on speech question
 answering in .&lt;/p&gt;
 </description>
     </item>
@@ -53,34 +54,36 @@ answering in .&lt;/p&gt;
     <item>
       <title>MasterView (VR System)</title>
       <link>https://wfangtw.github.io/project/hackntu16-masterview/</link>
-      <pubDate>Sun, 21 Aug 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Aug 2016 00:00:00 -0400</pubDate>
       <guid>https://wfangtw.github.io/project/hackntu16-masterview/</guid>
       <description>&lt;p&gt;In the 2016 HackNTU Hackathon, our team developed MasterView, a virtual reality system that shows the expert&amp;rsquo;s moves in first-person perspective so the user can imitate and practice.&lt;/p&gt;
-&lt;p&gt;Here&amp;rsquo;s a &lt;!-- raw HTML omitted --&gt;demo video&lt;!-- raw HTML omitted --&gt; of our system, and here&amp;rsquo;s
-our &lt;!-- raw HTML omitted --&gt;presentation slides&lt;!-- raw HTML omitted --&gt; in Mandarin Chinese.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a &lt;a href=&#34;../../files/videos/masterview-demo.mp4&#34; target=&#34;_blank&#34;&gt;demo video&lt;/a&gt; of our system, and here&amp;rsquo;s
+our &lt;a href=&#34;../../files/slides/masterview-slides.pdf&#34; target=&#34;_blank&#34;&gt;presentation slides&lt;/a&gt; in Mandarin Chinese.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Slither.AR (AR Game)</title>
       <link>https://wfangtw.github.io/project/cg16-slitherio/</link>
-      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 -0400</pubDate>
       <guid>https://wfangtw.github.io/project/cg16-slitherio/</guid>
-      <description>&lt;p&gt;Using common and well-known development tools, we transform &lt;a href=&#34;http://slither.io&#34;&gt;slither.io&lt;/a&gt;, a game
+      <description>&lt;p&gt;Using common and well-known development tools, we transform &lt;a href=&#34;http://slither.io&#34; target=&#34;_blank&#34;&gt;slither.io&lt;/a&gt;, a game
 based on &amp;ldquo;Snake&amp;rdquo;, into an interactive augmented-reality game.&lt;/p&gt;
-&lt;p&gt;The details about this project can be found in our &lt;!-- raw HTML omitted --&gt;project report&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
+
+&lt;p&gt;The details about this project can be found in our &lt;a href=&#34;../../files/reports/icg-report.pdf&#34; target=&#34;_blank&#34;&gt;project report&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Large Scale Equivalence Checking and Functional Correction</title>
       <link>https://wfangtw.github.io/project/cad15-eqcheck/</link>
-      <pubDate>Sat, 19 Sep 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 19 Sep 2015 00:00:00 -0400</pubDate>
       <guid>https://wfangtw.github.io/project/cad15-eqcheck/</guid>
-      <description>&lt;p&gt;We participated in the &lt;a href=&#34;http://cad-contest.el.cycu.edu.tw/CAD-contest-at-ICCAD2015/&#34;&gt;2015 CAD
+      <description>&lt;p&gt;We participated in the &lt;a href=&#34;http://cad-contest.el.cycu.edu.tw/CAD-contest-at-ICCAD2015/&#34; target=&#34;_blank&#34;&gt;2015 CAD
 Contest&lt;/a&gt; hosted by
 IEEE/ACM International Conference on Computer Aided Design (ICCAD 2015). In
-&lt;a href=&#34;http://cad-contest.el.cycu.edu.tw/problem_B/default.htm&#34;&gt;Problem B&lt;/a&gt;, we
+&lt;a href=&#34;http://cad-contest.el.cycu.edu.tw/problem_B/default.htm&#34; target=&#34;_blank&#34;&gt;Problem B&lt;/a&gt;, we
 developed a system to identify equivalent cuts in both equivalent and
 nonequivalent circuits for design partitioning.&lt;/p&gt;
 </description>
