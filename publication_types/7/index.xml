@@ -5,12 +5,20 @@
     <link>https://wfangtw.github.io/publication_types/7/</link>
       <atom:link href="https://wfangtw.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Wei Fang</copyright><lastBuildDate>Fri, 01 May 2026 00:00:00 -0400</lastBuildDate>
     <image>
       <url>https://wfangtw.github.io/img/icon-192.png</url>
       <title>7</title>
       <link>https://wfangtw.github.io/publication_types/7/</link>
     </image>
+    
+    <item>
+      <title>Towards Scalable and Generalizable Agentic Large Language Models</title>
+      <link>https://wfangtw.github.io/publication/phd-thesis/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 -0400</pubDate>
+      <guid>https://wfangtw.github.io/publication/phd-thesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On End-to-end Automatic Fact-checking Systems</title>
